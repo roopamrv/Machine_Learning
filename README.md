@@ -28,6 +28,7 @@ Dataset used: Labeled Faces in the Wild (LFW) people dataset
 13,233 face pictures from the internet have been collected for the LFW dataset. The 5749 IDs with 1680 individuals who have two or more photos make up this dataset. The verification accuracy rates for 6000 face pairings are stated in the standard LFW evaluation technique.
 
 Eigenfaces extracted using PCA using Randomized SVD:
+ 
  <img width="406" alt="image" src="https://user-images.githubusercontent.com/89948461/225787475-a13e6aae-b560-40fa-a8a9-2691080b0cab.png">
 
 
